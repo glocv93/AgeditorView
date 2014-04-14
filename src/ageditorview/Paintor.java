@@ -3,7 +3,8 @@
  * and open the template in the editor.
  */
 package ageditorview;
-
+import ageditormodel.Map;
+import ageditormodel.Tyle;
 import java.util.*;
 
 /**
